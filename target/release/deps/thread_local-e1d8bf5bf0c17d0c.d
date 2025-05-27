@@ -1,0 +1,10 @@
+/Users/moneelpatel/Documents/College/Junior/Linkedin/MiniTectonic/target/release/deps/libthread_local-e1d8bf5bf0c17d0c.rmeta: /Users/moneelpatel/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thread_local-1.1.8/src/lib.rs /Users/moneelpatel/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thread_local-1.1.8/src/cached.rs /Users/moneelpatel/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thread_local-1.1.8/src/thread_id.rs /Users/moneelpatel/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thread_local-1.1.8/src/unreachable.rs
+
+/Users/moneelpatel/Documents/College/Junior/Linkedin/MiniTectonic/target/release/deps/libthread_local-e1d8bf5bf0c17d0c.rlib: /Users/moneelpatel/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thread_local-1.1.8/src/lib.rs /Users/moneelpatel/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thread_local-1.1.8/src/cached.rs /Users/moneelpatel/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thread_local-1.1.8/src/thread_id.rs /Users/moneelpatel/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thread_local-1.1.8/src/unreachable.rs
+
+/Users/moneelpatel/Documents/College/Junior/Linkedin/MiniTectonic/target/release/deps/thread_local-e1d8bf5bf0c17d0c.d: /Users/moneelpatel/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thread_local-1.1.8/src/lib.rs /Users/moneelpatel/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thread_local-1.1.8/src/cached.rs /Users/moneelpatel/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thread_local-1.1.8/src/thread_id.rs /Users/moneelpatel/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thread_local-1.1.8/src/unreachable.rs
+
+/Users/moneelpatel/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thread_local-1.1.8/src/lib.rs:
+/Users/moneelpatel/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thread_local-1.1.8/src/cached.rs:
+/Users/moneelpatel/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thread_local-1.1.8/src/thread_id.rs:
+/Users/moneelpatel/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thread_local-1.1.8/src/unreachable.rs:
